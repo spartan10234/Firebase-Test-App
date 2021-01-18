@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FirebaseTestApp</string>
+
+    <!-- 8/7/20-->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--Navigation-->
+    <string name="Bottom_Navigation_Services">Services</string>
+    <string name="Bottom_Navigation_Profile">Profile</string>
+    <string name="Bottom_Navigation_Explore">Explore</string>
+    <string name="Request_Services">Request Services</string>
+
+    <!-- Random-->
+    <string name="Todo"> Todo</string>
+    <string name="Welcome">Welcome</string>
+
+    <!--Profile info/Google Sign In-->
+    <string name="Name">Name</string>
+    <string name="Email">Email</string>
+    <string name="Sign_Out">Sign out</string>
+    <string name="Sign_In">Sign in with Google or create and account</string>
+    <string name="Sign_In_with_google">Sign in</string>
+</resources>
